@@ -1,0 +1,10 @@
+| Day       | Focus                            |
+| --------- | -------------------------------- |
+| Monday    | New DSA                          |
+| Tuesday   | New DSA                          |
+| Wednesday | Revision + re-solve old problems |
+| Thursday  | New DSA                          |
+| Friday    | New DSA                          |
+| Saturday  | Revision + mock session          |
+| Sunday    | Rest + light revision only       |
+
